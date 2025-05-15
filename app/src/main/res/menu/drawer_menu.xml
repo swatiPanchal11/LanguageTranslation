@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/profile"
+            android:title="User Profile"
+            android:icon="@drawable/baseline_person_pin_circle_24"/>
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/baseline_history_24"
+            android:title="History" />
+        <item
+            android:id="@+id/nav_phrasebook"
+            android:icon="@drawable/baseline_collections_bookmark_24"
+            android:title="Phrasebook" />
+        <item
+            android:id="@+id/nav_language_selection"
+            android:icon="@drawable/baseline_language_24"
+            android:title="Language Selection" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/baseline_settings_24"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/baseline_close_24"
+            android:title="Logout" />
+</menu>

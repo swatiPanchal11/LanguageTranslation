@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541006254462",
+    "project_id": "languagetranslation-ebbc3",
+    "storage_bucket": "languagetranslation-ebbc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541006254462:android:03c3070938443ca831232f",
+        "android_client_info": {
+          "package_name": "com.example.languagetranslation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLBj7bwB9fJAn1MT0M3GrJHnuyiq6EISM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

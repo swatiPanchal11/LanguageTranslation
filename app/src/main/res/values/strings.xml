@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LanguageTranslation</string>
+    <string name="open">Open navigation drawer</string>
+    <string name="close">Close navigation drawer</string>
+    <string-array name="Languages">
+        <item>Hindi</item>
+        <item>Korean</item>
+        <item>Gujarati</item>
+        <item>Marathi</item>
+        <item>German</item>
+        <item>Chinese</item>
+        <item>Spanish</item>
+        <item>French</item>
+        <item>Japanese</item>
+    </string-array>
+</resources>
